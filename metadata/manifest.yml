@@ -90,4 +90,4 @@ Endpoints:
         Backend:       ""
         Options:       { health: true }
 #Source-Url: https://github.com/xltian/phptestonly.git
-Source-Url: https://github.com/xltian/phptestonly/blob/master/phptestonly2.tar.gz
+Source-Url: https://github.com/xltian/phptestonly/blob/master/phptestonly3.tar.gz
