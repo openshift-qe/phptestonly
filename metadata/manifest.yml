@@ -92,5 +92,4 @@ Endpoints:
       - Frontend:      "/health"
         Backend:       ""
         Options:       { health: true }
-Source-Url: https://github.com/xltian/phptestonly.git
-#Source-Url: https://github.com/xltian/phptestonly/raw/master/phptestonly.tar.gz
+Source-Url: https://github.com/openshift-qe/phptestonly.git
