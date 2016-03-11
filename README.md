@@ -1,4 +1,4 @@
-# OpenShift PHP Cartridge
+# OpenShift PHP Cartridge test
 
 The `php` cartridge provides [PHP](http://www.php.net) on OpenShift.
 
